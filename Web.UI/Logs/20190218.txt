@@ -1,0 +1,378 @@
+V5.7.9.2 Record On : 2019-02-18 08:52:58 : http://localhost:5230/ajax.html?sys_method=Login&sys_rnd=0.4757626435565394
+
+Referer:http://localhost:5230/login.html
+
+[LogConnIsEmpty]:Can't find Oracle.ManagedDataAccess.dll or Oracle.DataAccess.dll on the path:C:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Web.UI\bin\
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 10:05:05 : http://localhost:5230/ajax.html?sys_method=Login&sys_rnd=0.09646908181045732
+
+Referer:http://localhost:5230/login.html
+
+[LogConnIsEmpty]:Can't find Oracle.ManagedDataAccess.dll or Oracle.DataAccess.dll on the path:C:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Web.UI\bin\
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 13:20:39 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.3916162234696601
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:Oracle Call Function::ExeNonQuery():ORA-00001: 违反唯一约束条件 (SJTOOLS.SYS_C0010954)
+<br />Oracle.sjtools.SQL: <br />insert into SYS_MENU(MENUID,PARENTMENUID,MENUNAME,MENUURL,MENULEVEL,SORTORDER,ISSHOW,ACTIONIDS) Values(:MENUID,:PARENTMENUID,:MENUNAME,:MENUURL,:MENULEVEL,:SORTORDER,:ISSHOW,:ACTIONIDS)<br />Para: MENUID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: PARENTMENUID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: MENUNAME-> test<br />Para: MENUURL-> /web/sysadmin/customview.html?objname=test<br />Para: MENULEVEL-> 4<br />Para: SORTORDER-> 100<br />Para: ISSHOW-> 1<br />Para: ACTIONIDS-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeNonQuery():ORA-00001: 违反唯一约束条件 (SJTOOLS.SYS_C0010954)
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 13:21:08 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.7495211493127238
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:Oracle Call Function::ExeNonQuery():ORA-00001: 违反唯一约束条件 (SJTOOLS.SYS_C0010954)
+<br />Oracle.sjtools.SQL: <br />insert into SYS_MENU(MENUID,PARENTMENUID,MENUNAME,MENUURL,MENULEVEL,SORTORDER,ISSHOW,ACTIONIDS) Values(:MENUID,:PARENTMENUID,:MENUNAME,:MENUURL,:MENULEVEL,:SORTORDER,:ISSHOW,:ACTIONIDS)<br />Para: MENUID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: PARENTMENUID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: MENUNAME-> test<br />Para: MENUURL-> /web/sysadmin/customview.html?objname=test<br />Para: MENULEVEL-> 4<br />Para: SORTORDER-> 100<br />Para: ISSHOW-> 1<br />Para: ACTIONIDS-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeNonQuery():ORA-00001: 违反唯一约束条件 (SJTOOLS.SYS_C0010954)
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 15:31:45 : http://localhost:5230/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.6982359874373729
+
+Referer:http://localhost:5230/index.html
+
+[Exception]:已添加了具有相同键的项。:
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 Aries.Core.Auth.UserAuth.SetToken(String token, String userName) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\UserAuth.cs:行号 194
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 Aries.Core.Auth.UserAuth.SetToken(String token, String userName) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\UserAuth.cs:行号 194
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 15:33:04 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.16653316684500352
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:Oracle Call Function::ExeNonQuery():ORA-00001: 违反唯一约束条件 (SJTOOLS.SYS_C0010954)
+<br />Oracle.sjtools.SQL: <br />insert into SYS_MENU(MENUID,PARENTMENUID,MENUNAME,MENUURL,MENULEVEL,SORTORDER,ISSHOW,ACTIONIDS) Values(:MENUID,:PARENTMENUID,:MENUNAME,:MENUURL,:MENULEVEL,:SORTORDER,:ISSHOW,:ACTIONIDS)<br />Para: MENUID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: PARENTMENUID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: MENUNAME-> test1<br />Para: MENUURL-> /web/sysadmin/customview.html?objname=test1<br />Para: MENULEVEL-> 4<br />Para: SORTORDER-> 100<br />Para: ISSHOW-> 1<br />Para: ACTIONIDS-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeNonQuery():ORA-00001: 违反唯一约束条件 (SJTOOLS.SYS_C0010954)
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 15:40:52 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.033102752771607014
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:Oracle Call Function::ExeNonQuery():ORA-00001: 违反唯一约束条件 (SJTOOLS.SYS_C0010954)
+<br />Oracle.sjtools.SQL: <br />insert into SYS_MENU(MENUID,PARENTMENUID,MENUNAME,MENUURL,MENULEVEL,SORTORDER,ISSHOW,ACTIONIDS) Values(:MENUID,:PARENTMENUID,:MENUNAME,:MENUURL,:MENULEVEL,:SORTORDER,:ISSHOW,:ACTIONIDS)<br />Para: MENUID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: PARENTMENUID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: MENUNAME-> test1<br />Para: MENUURL-> /web/sysadmin/customview.html?objname=test1<br />Para: MENULEVEL-> 4<br />Para: SORTORDER-> 100<br />Para: ISSHOW-> 1<br />Para: ACTIONIDS-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeNonQuery():ORA-00001: 违反唯一约束条件 (SJTOOLS.SYS_C0010954)
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 15:42:00 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.7453552283888232
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:Oracle Call Function::ExeNonQuery():ORA-00001: 违反唯一约束条件 (SJTOOLS.SYS_C0010954)
+<br />Oracle.sjtools.SQL: <br />insert into SYS_MENU(MENUID,PARENTMENUID,MENUNAME,MENUURL,MENULEVEL,SORTORDER,ISSHOW,ACTIONIDS) Values(:MENUID,:PARENTMENUID,:MENUNAME,:MENUURL,:MENULEVEL,:SORTORDER,:ISSHOW,:ACTIONIDS)<br />Para: MENUID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: PARENTMENUID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: MENUNAME-> test1<br />Para: MENUURL-> /web/sysadmin/customview.html?objname=test1<br />Para: MENULEVEL-> 4<br />Para: SORTORDER-> 100<br />Para: ISSHOW-> 1<br />Para: ACTIONIDS-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeNonQuery():ORA-00001: 违反唯一约束条件 (SJTOOLS.SYS_C0010954)
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:34 : http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Referer:http://localhost:5230/index.html
+
+[Exception]:V5.7.9.2 Oracle.sjtools:open database failed! check the connectionstring is be ok!
+error::
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:49 : http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Referer:http://localhost:5230/index.html
+
+[Exception]:V5.7.9.2 Oracle.sjtools:open database failed! check the connectionstring is be ok!
+error::
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:36 : http://localhost:5230/Web/SysAdmin/UserList.html
+
+Referer:http://localhost:5230/index.html
+
+[Exception]:V5.7.9.2 Oracle.sjtools:open database failed! check the connectionstring is be ok!
+error::
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:37 : http://localhost:5230/Web/SysAdmin/UserList.html
+
+Referer:http://localhost:5230/index.html
+
+[Exception]:V5.7.9.2 Oracle.sjtools:open database failed! check the connectionstring is be ok!
+error::
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:39 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+[Exception]:V5.7.9.2 Oracle.sjtools:open database failed! check the connectionstring is be ok!
+error::
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:40 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+[Exception]:V5.7.9.2 Oracle.sjtools:open database failed! check the connectionstring is be ok!
+error::
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:44 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+[Exception]:V5.7.9.2 Oracle.sjtools:open database failed! check the connectionstring is be ok!
+error::
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:45 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+[Exception]:V5.7.9.2 Oracle.sjtools:open database failed! check the connectionstring is be ok!
+error::
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.MAction.InitRowSchema(MDataRow row, Boolean resetState)
+   在 CYQ.Data.MAction.Init(Object tableObj, String conn)
+   在 CYQ.Data.MAction..ctor(Object tableNamesEnum)
+   在 Aries.Core.Auth.SysMenu.GetUserMenu(Boolean onlyID) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 131
+   在 Aries.Core.Auth.SysMenu.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\SysMenu.cs:行号 120
+   在 Aries.Core.Auth.Permission.get_UserMenu() 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 366
+   在 Aries.Core.Auth.Permission.GetMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 197
+   在 Aries.Core.Auth.Permission.HasMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 238
+   在 Aries.Core.Auth.Permission.CheckMenu(Uri uri) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 181
+   在 Aries.Core.Auth.Permission..ctor(String loginID, Boolean checkMenu) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\Auth\Permission.cs:行号 170
+   在 Aries.Core.UrlRewrite.AuthCheck(Boolean isIndex) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 172
+   在 Aries.Core.UrlRewrite.context_AcquireRequestState(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Aries.Core\UrlRewrite.cs:行号 126
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+---------------------------------------
+

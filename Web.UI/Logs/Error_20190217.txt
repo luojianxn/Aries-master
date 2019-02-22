@@ -1,0 +1,91 @@
+V5.7.9.2 Record On : 2019-02-17 09:28:19 : http://localhost:5230/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.48126782490449316
+
+Referer:http://localhost:5230/login.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-17 09:29:34 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-17 09:29:34 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-17 09:29:34 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-17 09:29:34 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-17 09:29:34 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-17 09:29:34 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-17 09:31:28 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-17 09:31:28 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-17 09:31:28 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-17 09:31:28 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-17 09:31:28 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-17 09:31:28 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+

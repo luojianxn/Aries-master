@@ -1,0 +1,676 @@
+V5.7.9.2 Record On : 2019-02-18 08:53:14 : http://localhost:5230/Demo/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.36282241851378516
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 08:53:14 : http://localhost:5230/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.14595148949638648
+
+Referer:http://localhost:5230/index.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 08:53:15 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 08:53:15 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 08:53:15 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 08:53:15 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 08:53:15 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 08:53:15 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 10:05:22 : http://localhost:5230/Demo/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.23403633111851707
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 10:05:22 : http://localhost:5230/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.03334434948118248
+
+Referer:http://localhost:5230/index.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 10:05:23 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 10:05:23 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 10:05:23 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 10:05:23 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 10:05:23 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 10:05:23 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+MsSql Call Function::OpenCon():在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 11:12:55 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.3318386913940393
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+
+
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 11:38:34 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenu&sys_objName=Sys_Menu&sys_rnd=0.16703914722788327
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 11:38:34 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenu&sys_objName=Sys_Menu&sys_rnd=0.16703914722788327
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 11:38:34 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenu&sys_objName=Sys_Menu&sys_rnd=0.16703914722788327
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 13:17:22 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetActions&sys_objName=Sys_Action&sys_rnd=0.7919039112370846
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 13:17:22 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetActions&sys_objName=Sys_Action&sys_rnd=0.7919039112370846
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 13:17:22 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetActions&sys_objName=Sys_Action&sys_rnd=0.7919039112370846
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:19 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.773061346517844
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+
+
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:19 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.773061346517844
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+
+
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:19 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.773061346517844
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+
+
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:22 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.22025991723595473
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:22 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.22025991723595473
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:22 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.22025991723595473
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:24 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.7308930487454095
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:24 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.7308930487454095
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:24 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.7308930487454095
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:25 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.2942791917241345
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:25 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.2942791917241345
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:25 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.2942791917241345
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:30 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.5688423373830027
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:30 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.5688423373830027
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:30 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetMenuDetails&sys_objName=Sys_Menu&sys_rnd=0.5688423373830027
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:34 : http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:34 : http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:34 : http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:49 : http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:49 : http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:49 : http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:53 : http://localhost:5230/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.9496068987692496
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:53 : http://localhost:5230/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.9496068987692496
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:53 : http://localhost:5230/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.9496068987692496
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:53 : http://localhost:5230/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.9496068987692496
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:53 : http://localhost:5230/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.9496068987692496
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:53 : http://localhost:5230/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.9496068987692496
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:54 : http://localhost:5230/ajax.html?sys_method=GetUserInfo&sys_rnd=0.9015376180092953
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:54 : http://localhost:5230/ajax.html?sys_method=GetUserInfo&sys_rnd=0.9015376180092953
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:54 : http://localhost:5230/ajax.html?sys_method=GetUserInfo&sys_rnd=0.9015376180092953
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:54 : http://localhost:5230/ajax.html?sys_method=GetUserMenu&sys_rnd=0.056915295892975504
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:54 : http://localhost:5230/ajax.html?sys_method=GetUserMenu&sys_rnd=0.056915295892975504
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:08:54 : http://localhost:5230/ajax.html?sys_method=GetUserMenu&sys_rnd=0.056915295892975504
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:23:52 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:23:52 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:23:52 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:36 : http://localhost:5230/Web/SysAdmin/UserList.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:36 : http://localhost:5230/Web/SysAdmin/UserList.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:36 : http://localhost:5230/Web/SysAdmin/UserList.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:37 : http://localhost:5230/Web/SysAdmin/UserList.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:37 : http://localhost:5230/Web/SysAdmin/UserList.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:37 : http://localhost:5230/Web/SysAdmin/UserList.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:39 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:39 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:39 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:40 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:40 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:40 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:44 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:44 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:44 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:45 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:45 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:45 : http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Referer:http://localhost:5230/index.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:48 : http://localhost:5230/web/SysAdmin/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.5145759933362519
+
+Referer:http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:48 : http://localhost:5230/web/SysAdmin/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.5145759933362519
+
+Referer:http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:48 : http://localhost:5230/web/SysAdmin/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.5145759933362519
+
+Referer:http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:48 : http://localhost:5230/web/SysAdmin/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.5145759933362519
+
+Referer:http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:48 : http://localhost:5230/web/SysAdmin/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.5145759933362519
+
+Referer:http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:48 : http://localhost:5230/web/SysAdmin/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.5145759933362519
+
+Referer:http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:49 : http://localhost:5230/web/SysAdmin/ajax.html?sys_method=GetHeader&sys_objName=Config_KeyValue&sys_tableName=Config_KeyValue&sys_rnd=0.2525450282944073
+
+Referer:http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:49 : http://localhost:5230/web/SysAdmin/ajax.html?sys_method=GetHeader&sys_objName=Config_KeyValue&sys_tableName=Config_KeyValue&sys_rnd=0.2525450282944073
+
+Referer:http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-18 16:24:49 : http://localhost:5230/web/SysAdmin/ajax.html?sys_method=GetHeader&sys_objName=Config_KeyValue&sys_tableName=Config_KeyValue&sys_rnd=0.2525450282944073
+
+Referer:http://localhost:5230/web/SysAdmin/ConfigKeyValue.html
+
+Oracle Call Function::OpenCon():ORA-12516: TNS: 监听程序找不到符合协议堆栈要求的可用处理程序
+<br />
+---------------------------------------
+

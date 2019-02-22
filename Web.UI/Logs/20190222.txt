@@ -1,0 +1,14 @@
+V5.7.9.2 Record On : 2019-02-22 08:52:13 : http://localhost:5230/Demo/ajax.html?sys_method=GetInitConfig,GetKeyValueConfig&sys_rnd=0.11140052148015678
+
+Referer:http://localhost:5230/Demo/jindu.html
+
+[LogConnIsEmpty]:Can't find Oracle.ManagedDataAccess.dll or Oracle.DataAccess.dll on the path:C:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Web.UI\bin\
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-22 09:15:49 : http://localhost:5230/Demo/list.html
+
+Referer:http://localhost:5230/index.html
+
+[LogConnIsEmpty]:Can't find Oracle.ManagedDataAccess.dll or Oracle.DataAccess.dll on the path:C:\Users\Administrator\Documents\WeChat Files\ljx-gogo\Files\Aries-master\Aries-master\Aries.DevFramework\Web.UI\bin\
+---------------------------------------
+

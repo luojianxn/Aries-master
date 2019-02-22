@@ -1,0 +1,231 @@
+V5.7.9.2 Record On : 2019/2/8 14:43:30 : http://localhost:8003/Demo/ajax.html?sys_method=Add&sys_objName=Demo_TestA&sys_tableName=Demo_TestA&sys_mid=13ce68d5-1261-4bec-95ac-b56f708f480b
+
+Referer:http://localhost:8003/Demo/edit.html
+
+[LogConnIsEmpty]:ChangeType Error：ColumnName【F3】(System.Decimal) ， Value：【zhy】
+
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:43:30 : http://localhost:8003/Demo/ajax.html?sys_method=Add&sys_objName=Demo_TestA&sys_tableName=Demo_TestA&sys_mid=13ce68d5-1261-4bec-95ac-b56f708f480b
+
+Referer:http://localhost:8003/Demo/edit.html
+
+[LogConnIsEmpty]:ChangeType Error：ColumnName【F4】(System.Int32) ， Value：【zhy】
+
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:44:00 : http://localhost:8003/demo/ajax.html?sys_method=GetCombobox&sys_rnd=0.923323011291707
+
+Referer:http://localhost:8003/demo/mutillist.html
+
+[LogConnIsEmpty]:Can't find Oracle.ManagedDataAccess.dll or Oracle.DataAccess.dll on the path:D:\Work\Source\Aries-master\Aries.DevFramework\Web.UI\bin\
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:48:17 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.42568462698141896
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '626e25c2-2dde-4847-8edc-e87dbb92bb1d' as OutPutValue<br />Para: @MenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @ParentMenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @MenuName-> 1<br />Para: @MenuUrl-> /web/sysadmin/customview.html?objname=<br />Para: @MenuLevel-> 3<br />Para: @SortOrder-> 100<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:15:03 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.8341914777550778
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '626e25c2-2dde-4847-8edc-e87dbb92bb1d' as OutPutValue<br />Para: @MenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @ParentMenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> #<br />Para: @MenuLevel-> 3<br />Para: @SortOrder-> 100<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:15:07 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.5764996796695248
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '626e25c2-2dde-4847-8edc-e87dbb92bb1d' as OutPutValue<br />Para: @MenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @ParentMenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> #<br />Para: @MenuLevel-> 3<br />Para: @SortOrder-> 100<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:15:30 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.21843115525727508
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '80a620b6-175a-493f-b7b5-54c61c1fd1e9' as OutPutValue<br />Para: @MenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @ParentMenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> #<br />Para: @MenuLevel-> 4<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:18:46 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.22598573600975325
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '626e25c2-2dde-4847-8edc-e87dbb92bb1d' as OutPutValue<br />Para: @MenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @ParentMenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> #<br />Para: @MenuLevel-> 3<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:18:49 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.05640839917217089
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '626e25c2-2dde-4847-8edc-e87dbb92bb1d' as OutPutValue<br />Para: @MenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @ParentMenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> #<br />Para: @MenuLevel-> 3<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:19:38 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.7073059690754824
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '626e25c2-2dde-4847-8edc-e87dbb92bb1d' as OutPutValue<br />Para: @MenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @ParentMenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> #<br />Para: @MenuLevel-> 3<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:20:08 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.8551472879634454
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '626e25c2-2dde-4847-8edc-e87dbb92bb1d' as OutPutValue<br />Para: @MenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @ParentMenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> #<br />Para: @MenuLevel-> 3<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:20:22 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.5912073816316903
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '626e25c2-2dde-4847-8edc-e87dbb92bb1d' as OutPutValue<br />Para: @MenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @ParentMenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> #<br />Para: @MenuLevel-> 3<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:21:11 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.7781490082745215
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '80a620b6-175a-493f-b7b5-54c61c1fd1e9' as OutPutValue<br />Para: @MenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @ParentMenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> #<br />Para: @MenuLevel-> 4<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:26:31 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.9536182551255734
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '80a620b6-175a-493f-b7b5-54c61c1fd1e9' as OutPutValue<br />Para: @MenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @ParentMenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> /web/sysadmin/customview.html?objname=<br />Para: @MenuLevel-> 4<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:27:57 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.2681268377348023
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '80a620b6-175a-493f-b7b5-54c61c1fd1e9' as OutPutValue<br />Para: @MenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @ParentMenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> /web/sysadmin/customview.html?objname=<br />Para: @MenuLevel-> 4<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:28:02 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.20607985126507966
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '80a620b6-175a-493f-b7b5-54c61c1fd1e9' as OutPutValue<br />Para: @MenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @ParentMenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> /web/sysadmin/customview.html?objname=<br />Para: @MenuLevel-> 4<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:28:53 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.5438172750891583
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '80a620b6-175a-493f-b7b5-54c61c1fd1e9' as OutPutValue<br />Para: @MenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @ParentMenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> /web/sysadmin/customview.html?objname=<br />Para: @MenuLevel-> 4<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:29:23 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.9580102455936452
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '80a620b6-175a-493f-b7b5-54c61c1fd1e9' as OutPutValue<br />Para: @MenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @ParentMenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> /web/sysadmin/customview.html?objname=<br />Para: @MenuLevel-> 4<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:32:38 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.32736631012019246
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '80a620b6-175a-493f-b7b5-54c61c1fd1e9' as OutPutValue<br />Para: @MenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @ParentMenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> /web/sysadmin/customview.html?objname=<br />Para: @MenuLevel-> 4<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:33:20 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.11370119246880761
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '80a620b6-175a-493f-b7b5-54c61c1fd1e9' as OutPutValue<br />Para: @MenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @ParentMenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> /web/sysadmin/customview.html?objname=<br />Para: @MenuLevel-> 4<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:33:24 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.11370119246880761
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '80a620b6-175a-493f-b7b5-54c61c1fd1e9' as OutPutValue<br />Para: @MenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @ParentMenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> /web/sysadmin/customview.html?objname=<br />Para: @MenuLevel-> 4<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 16:53:00 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.07746213345806097
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '80a620b6-175a-493f-b7b5-54c61c1fd1e9' as OutPutValue<br />Para: @MenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @ParentMenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> /web/sysadmin/customview.html?objname=<br />Para: @MenuLevel-> 4<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 17:05:44 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.6425859315241242
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '626e25c2-2dde-4847-8edc-e87dbb92bb1d' as OutPutValue<br />Para: @MenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @ParentMenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> #<br />Para: @MenuLevel-> 3<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 17:07:20 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.8312223911472125
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '626e25c2-2dde-4847-8edc-e87dbb92bb1d' as OutPutValue<br />Para: @MenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @ParentMenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> #<br />Para: @MenuLevel-> 3<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 17:21:20 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.263752049884997
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '626e25c2-2dde-4847-8edc-e87dbb92bb1d' as OutPutValue<br />Para: @MenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @ParentMenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> /web/sysadmin/customview.html?objname=<br />Para: @MenuLevel-> 3<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 17:41:21 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=Add&sys_objName=Sys_Menu&sys_rnd=0.15838923433233765
+
+Referer:http://localhost:5230/Web/SysAdmin/MenuEdit.html
+
+[LogConnIsEmpty]:MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />MsSql.SjTs.SQL: <br />insert into [Sys_Menu]([MenuID],[ParentMenuID],[MenuName],[MenuUrl],[MenuLevel],[SortOrder],[IsShow],[ActionIDs]) Values(@MenuID,@ParentMenuID,@MenuName,@MenuUrl,@MenuLevel,@SortOrder,@IsShow,@ActionIDs) select '80a620b6-175a-493f-b7b5-54c61c1fd1e9' as OutPutValue<br />Para: @MenuID-> 80a620b6-175a-493f-b7b5-54c61c1fd1e9<br />Para: @ParentMenuID-> 626e25c2-2dde-4847-8edc-e87dbb92bb1d<br />Para: @MenuName-> 桑园<br />Para: @MenuUrl-> /web/sysadmin/customview.html?objname=<br />Para: @MenuLevel-> 3<br />Para: @SortOrder-> 2<br />Para: @IsShow-> 1<br />Para: @ActionIDs-> d0739946-99e0-4770-8d2a-6faf25a8457a,1c613ade-6665-49fb-b298-faf1b82dd6d2,cf8f418e-2468-4f6c-96cf-3302a2d9fa9b,15b73068-6c0f-49c9-800c-a7216cb2d079,71e39291-59d3-4ed6-9ae1-0d7df7da2f91,8a59a358-5a8f-4cb4-b600-9313028b911b,630e0452-00d6-4452-8a5c-19b2c3115ee3<br />ExeScalar():违反了 PRIMARY KEY 约束 'PK__Sys_Menu__C99ED2503C69FB99'。不能在对象 'dbo.Sys_Menu' 中插入重复键。
+语句已终止。<br />
+---------------------------------------
+

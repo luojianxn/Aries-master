@@ -1,0 +1,186 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>拣货进度展示</title>
+    <script src="/Style/JS/Aries.Loader.js"></script>
+    <style type="text/css">
+        html, body {
+            width: 100%;
+            height: 100%;
+            color: red;
+        }
+        .title {
+            display: block;
+            text-align: center;
+            color: white;
+            font-size: 4em;
+            font-weight: bold;
+            background: black;
+            height: 10%;
+            line-height: 95%;
+            margin-bottom:10px;
+        }
+        .time {
+            display: block;
+            text-align: right;
+            color: white;
+            font-size: 3em;
+            font-weight: bold;
+            background: black;
+            height: 6%;
+            line-height: 95%;
+        }
+        .mainContainer {
+            width: 100%;
+            height: 100%;
+            background-color: black;
+            display:block;
+        }
+        table {
+            text-align: center;
+            font-size: 4.5em;
+            font-weight: bold;
+            width: 100%;
+            border:5px solid blue;
+        }
+        table thead tr td {
+            height: 120px;
+            color: white;
+            border: 1px solid blue;
+        }
+        table tbody tr td {
+            height: 120px;
+            color: red;
+            border: 1px solid blue;
+        }
+
+    </style>
+    <script type="text/javascript">
+        var timer;
+        $(function () {
+            $("#time").text(getCurrentTime());
+            refeshData();
+            timer=setInterval(refeshData, 15000); //15秒刷新一次
+        });
+
+        function refeshData() {
+            var result = AR.Utility.Ajax.post("GetProgressShow", null, {});
+            console.log(result.rows);
+            if (result.success && result.rowcount>0) {
+                for (var i = 0; i < result.rows.length; i++) {
+                    fillRow(result.rows[i]);
+                }
+                fillRowHeji(result.rows[0]);
+            }     
+            if (result.rows.length>0&&result.rows[0].totalqty_heji == result.rows[0].loadedqty_heji && timer)
+            clearInterval(timer);
+        }
+
+        function fillRow(row) {
+            $("#"+row.fpickarea + "fpickarea").text(row.fpickarea);
+            $("#"+row.fpickarea + "totalqty").text(row.totalqty);
+            $("#"+row.fpickarea + "loadedqty").text(row.loadedqty);
+            $("#"+row.fpickarea + "noloadedqty").text(row.totalqty - row.loadedqty);
+            $("#"+row.fpickarea + "speed").text(row.speed+"秒/店");
+            $("#"+row.fpickarea + "completetime").text(row.completetime);
+            if (!timer) {
+                $("#" + row.fpickarea + "jindu").progressbar({
+                    value: row.jindu
+                });
+                setColor("#" + row.fpickarea + "jindu");
+            }
+            else
+                $("#" + row.fpickarea + "jindu").progressbar('setValue', row.jindu);
+        }
+
+        //填充最后一行
+        function fillRowHeji(row) {
+            $("#allfpickarea").text("合计");
+            $("#alltotalqty").text(row.totalqty_heji);
+            $("#allloadedqty").text(row.loadedqty_heji);
+            $("#allnoloadedqty").text(row.totalqty_heji - row.loadedqty_heji);
+            $("#allspeed").text(row.avgspeed_heji + "秒/店");
+            $("#allcompletetime").text(row.completetime_heji);
+            if (!timer) {
+                $("#alljindu").progressbar({
+                    value: row.jindu_heji
+                });
+                setColor("#alljindu");
+            }
+            else
+                $("#alljindu").progressbar('setValue', row.jindu_heji);
+        }
+
+
+
+        function setColor(id, color) {
+            if (!color)
+                color = "#53CA22"                 
+            $(id + " .progressbar-value .progressbar-text").css("background-color", color);
+            $(id + " .progressbar-value .progressbar-text").css("color", "red");
+            $(id + " .progressbar-value .progressbar-text").css("font-size", "0.9em");
+            $(id + " .progressbar-text").css("font-size", "0.9em");
+            $(id + " .progressbar-text").css("color", "red");
+            $(id).css("background-color", "white");
+            $(id).css("color", "red");
+            $(id).css("font-size", "0.9em");
+        }
+
+        function getCurrentTime() {
+            var d = new Date();
+            var curr_date = d.getDate();
+            var curr_month = d.getMonth() + 1;
+            var curr_year = d.getFullYear();
+            String(curr_month).length < 2 ? (curr_month = "0" + curr_month) : curr_month;
+            String(curr_date).length < 2 ? (curr_date = "0" + curr_date) : curr_date;
+            var yyyyMMdd = curr_year + "-" + curr_month + "-" + curr_date;
+            return yyyyMMdd;
+        }
+    </script>
+</head>
+<body >
+    <div class="mainContainer">
+        <div class="time"><span id="time"></span></div>
+        <div class="title"><span>拣货进度展示</span></div>      
+
+        <table>
+            <thead>
+                <tr>
+                    <td>区域</td><td>进度</td><td>总订单</td><td>已完成</td><td>未完成</td><td>平均速度</td><td>预计完成</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td id="40fpickarea"></td>
+                    <td><div id="40jindu" style="width:250px;height:40px"></div></td>
+                    <td id="40totalqty"></td>
+                    <td id="40loadedqty"></td>
+                    <td id="40noloadedqty"></td>
+                    <td id="40speed"></td>
+                    <td id="40completetime"></td>
+                </tr>
+                <tr>
+                    <td id="42fpickarea"></td>
+                    <td><div id="42jindu" style="width: 250px; height: 40px"></div></td>
+                    <td id="42totalqty"></td>
+                    <td id="42loadedqty"></td>
+                    <td id="42noloadedqty"></td>
+                    <td id="42speed"> </td>
+                    <td id="42completetime"></td>
+                </tr>
+                <tr>
+                    <td id="allfpickarea"></td>
+                    <td><div id="alljindu" style="width: 250px; height: 40px"></div></td>
+                    <td id="alltotalqty"></td>
+                    <td id="allloadedqty"></td>
+                    <td id="allnoloadedqty"></td>
+                    <td id="allspeed"></td>
+                    <td id="allcompletetime"></td>
+                </tr>
+            </tbody>
+
+</table>
+    </div>
+</body>
+</html>

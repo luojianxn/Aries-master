@@ -1,0 +1,914 @@
+V5.7.9.2 Record On : 2019/2/8 14:43:45 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:43:45 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:43:45 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:43:47 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:43:47 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:43:47 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:44:00 : http://localhost:8003/demo/ajax.html?sys_method=GetCombobox&sys_rnd=0.923323011291707
+
+Referer:http://localhost:8003/demo/mutillist.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:37 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:37 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:37 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:49 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:49 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:49 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:51 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=V_TestAAA&sys_tableName=V_TestAAA
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=V_TestAAA
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:51 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=V_TestAAA&sys_tableName=V_TestAAA
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=V_TestAAA
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:51 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=V_TestAAA&sys_tableName=V_TestAAA
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=V_TestAAA
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:54 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=V_TestAAA&sys_tableName=V_TestAAA
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=V_TestAAA
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:54 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=V_TestAAA&sys_tableName=V_TestAAA
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=V_TestAAA
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:54 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=V_TestAAA&sys_tableName=V_TestAAA
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=V_TestAAA
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:58 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:58 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:55:58 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:00 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:00 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:00 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:01 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:01 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:01 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:02 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:02 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:02 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:03 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:03 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:03 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:04 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:04 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:04 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:05 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:05 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:05 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:05 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:05 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:05 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:10 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:10 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:10 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:11 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:11 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:11 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:11 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:11 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:11 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:15 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:15 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:56:15 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=TestCCC&sys_tableName=TestCCC
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=TestCCC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:25 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:25 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:25 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:36 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:36 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:36 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:37 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:37 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:37 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:44 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=V_TestAAA&sys_tableName=V_TestAAA
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=V_TestAAA
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:44 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=V_TestAAA&sys_tableName=V_TestAAA
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=V_TestAAA
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:44 : http://localhost:8003/web/sysadmin/ajax.html?sys_method=GetList&sys_objName=V_TestAAA&sys_tableName=V_TestAAA
+
+Referer:http://localhost:8003/web/sysadmin/customview.html?objname=V_TestAAA
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:45 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:45 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 14:59:45 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:8003/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:11:16 : http://localhost:5230/ajax.html?sys_method=Login&sys_rnd=0.8565046856038068
+
+Referer:http://localhost:5230/login.html
+
+MsSql Call Function::OpenCon():超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:11:16 : http://localhost:5230/ajax.html?sys_method=Login&sys_rnd=0.8565046856038068
+
+Referer:http://localhost:5230/login.html
+
+MsSql Call Function::OpenCon():超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:11:16 : http://localhost:5230/ajax.html?sys_method=Login&sys_rnd=0.8565046856038068
+
+Referer:http://localhost:5230/login.html
+
+MsSql Call Function::OpenCon():超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:11:16 : http://localhost:5230/ajax.html?sys_method=Login&sys_rnd=0.8565046856038068
+
+Referer:http://localhost:5230/login.html
+
+MsSql Call Function::OpenCon():超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:11:16 : http://localhost:5230/ajax.html?sys_method=Login&sys_rnd=0.8565046856038068
+
+Referer:http://localhost:5230/login.html
+
+MsSql Call Function::OpenCon():超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:11:16 : http://localhost:5230/ajax.html?sys_method=Login&sys_rnd=0.8565046856038068
+
+Referer:http://localhost:5230/login.html
+
+MsSql Call Function::OpenCon():超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:12:48 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:12:48 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:12:48 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:14:25 : http://localhost:8003/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:8003/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:14:25 : http://localhost:8003/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:8003/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:14:25 : http://localhost:8003/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:8003/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:14:42 : http://localhost:8003/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:8003/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:14:42 : http://localhost:8003/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:8003/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:14:42 : http://localhost:8003/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:8003/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:15:06 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=Update&sys_objName=Sys_Menu&sys_rnd=0.2659074742849674
+
+Referer:http://localhost:8003/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:15:06 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=Update&sys_objName=Sys_Menu&sys_rnd=0.2659074742849674
+
+Referer:http://localhost:8003/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:15:06 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=Update&sys_objName=Sys_Menu&sys_rnd=0.2659074742849674
+
+Referer:http://localhost:8003/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:15:09 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=Update&sys_objName=Sys_Menu&sys_rnd=0.025352077960447028
+
+Referer:http://localhost:8003/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:15:09 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=Update&sys_objName=Sys_Menu&sys_rnd=0.025352077960447028
+
+Referer:http://localhost:8003/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:15:09 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=Update&sys_objName=Sys_Menu&sys_rnd=0.025352077960447028
+
+Referer:http://localhost:8003/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:15:44 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=Update&sys_objName=Sys_Menu&sys_rnd=0.9700380238858923
+
+Referer:http://localhost:8003/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:15:44 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=Update&sys_objName=Sys_Menu&sys_rnd=0.9700380238858923
+
+Referer:http://localhost:8003/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:15:44 : http://localhost:8003/Web/SysAdmin/ajax.html?sys_method=Update&sys_objName=Sys_Menu&sys_rnd=0.9700380238858923
+
+Referer:http://localhost:8003/Web/SysAdmin/MenuEdit.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:24:47 : http://localhost:8003/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:8003/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:24:47 : http://localhost:8003/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:8003/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/2/8 15:24:47 : http://localhost:8003/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:8003/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:25:04 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:25:04 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:25:04 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:27:02 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:27:02 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:27:02 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:28:20 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:28:20 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:28:20 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:32:39 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:32:39 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:32:39 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:34:26 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:34:26 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:34:26 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:39:51 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:39:51 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/08 15:39:51 : http://localhost:5230/Demo/ajax.html?sys_method=GetList&sys_objName=V_Test&sys_tableName=Demo_TestA
+
+Referer:http://localhost:5230/Demo/list.html
+
+Oracle Call Function::OpenCon():ORA-12505: TNS: 监听程序当前无法识别连接描述符中所给出的 SID
+<br />
+---------------------------------------
+

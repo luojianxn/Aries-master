@@ -1,0 +1,48 @@
+V5.7.9.2 Record On : 2019/02/07 7:51:28 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:5230/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12170: TNS: 连接超时
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/07 7:51:28 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:5230/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12170: TNS: 连接超时
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/07 7:51:28 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:5230/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12170: TNS: 连接超时
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/07 8:03:31 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:5230/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12170: TNS: 连接超时
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/07 8:03:31 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:5230/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12170: TNS: 连接超时
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019/02/07 8:03:31 : http://localhost:5230/Web/SysAdmin/ajax.html?sys_method=GetList&sys_objName=TestABC&sys_tableName=TestABC
+
+Referer:http://localhost:5230/Web/SysAdmin/CustomView.html?objname=TestABC
+
+Oracle Call Function::OpenCon():ORA-12170: TNS: 连接超时
+<br />
+---------------------------------------
+

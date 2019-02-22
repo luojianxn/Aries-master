@@ -1,0 +1,24 @@
+V5.7.9.2 Record On : 2019-02-21 16:39:08 : http://localhost:5230/demo/ajax.html?sys_method=get1&sys_rnd=0.3134307021062379
+
+Referer:http://localhost:5230/demo/jindu.html
+
+Oracle Call Function::OpenCon():ORA-01017: invalid username/password; logon denied
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-21 16:39:08 : http://localhost:5230/demo/ajax.html?sys_method=get1&sys_rnd=0.3134307021062379
+
+Referer:http://localhost:5230/demo/jindu.html
+
+Oracle Call Function::OpenCon():ORA-01017: invalid username/password; logon denied
+<br />
+---------------------------------------
+
+V5.7.9.2 Record On : 2019-02-21 16:39:08 : http://localhost:5230/demo/ajax.html?sys_method=get1&sys_rnd=0.3134307021062379
+
+Referer:http://localhost:5230/demo/jindu.html
+
+Oracle Call Function::OpenCon():ORA-01017: invalid username/password; logon denied
+<br />
+---------------------------------------
+
